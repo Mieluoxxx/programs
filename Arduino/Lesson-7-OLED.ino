@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <U8x8lib.h>
+#include <U8g2lib.h>
 
 U8X8_SSD1306_128X64_ALT0_HW_I2C u8x8(/* reset=*/ U8X8_PIN_NONE);
 
