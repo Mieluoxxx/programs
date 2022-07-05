@@ -1,0 +1,5 @@
+{
+    "port": "/dev/tty.usbserial-0001",
+    "board": "arduino:avr:uno",
+    "sketch": "Lesson-7-OLED.ino"
+}
